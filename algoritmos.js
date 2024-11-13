@@ -39,10 +39,10 @@ function saludar() {
         division = n1/n2
 
         //4. mostrar resultado
-        alert("El resultado es: " + suma)
-        alert("El resultado es: " + resta)
-        alert("El resultado es: " + multiplicacion)
-        alert("El resultado es: " + division)
+        alert("El resultado de la suma es: " + suma)
+        alert("El resultado de la resta es: " + resta)
+        alert("El resultado de la multiplicacion es: " + multiplicacion)
+        alert("El resultado de la division es: " + division)
         
 
 
